@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "superpowers@superpowers-local": true
+  },
+  "extraKnownMarketplaces": {
+    "superpowers-local": {
+      "source": {
+        "source": "directory",
+        "directory": "~/.claude/plugins/cache/superpowers"
+      }
+    }
+  }
+}
