@@ -11,7 +11,8 @@
     "strategy-growth@wondelai-local": true,
     "team-motivation@wondelai-local": true,
     "code-craftsmanship@wondelai-local": true,
-    "systems-architecture@wondelai-local": true
+    "systems-architecture@wondelai-local": true,
+    "banana-claude@banana-claude-local": true
   },
   "extraKnownMarketplaces": {
     "superpowers-local": {
@@ -36,6 +37,12 @@
       "source": {
         "source": "directory",
         "directory": "~/.claude/plugins/cache/wondelai-skills"
+      }
+    },
+    "banana-claude-local": {
+      "source": {
+        "source": "directory",
+        "directory": "~/.claude/plugins/cache/banana-claude"
       }
     }
   }
