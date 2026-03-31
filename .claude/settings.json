@@ -1,7 +1,8 @@
 {
   "enabledPlugins": {
     "superpowers@superpowers-local": true,
-    "marketing-skills@marketingskills-local": true
+    "marketing-skills@marketingskills-local": true,
+    "last30days@last30days-local": true
   },
   "extraKnownMarketplaces": {
     "superpowers-local": {
@@ -14,6 +15,12 @@
       "source": {
         "source": "directory",
         "directory": "~/.claude/plugins/cache/marketingskills"
+      }
+    },
+    "last30days-local": {
+      "source": {
+        "source": "directory",
+        "directory": "~/.claude/plugins/cache/last30days-skill"
       }
     }
   }
