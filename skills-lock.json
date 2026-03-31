@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-video-gen": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "800382614ffda9818bf753bb8ba6b92fdaaa7a0a35e6bd43571166890462a4be"
+    },
+    "avatar-video": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "66a49290a0412d7bad634aac7e9cc24c5722ea6f508d6427e19ac2241bce8740"
+    },
+    "create-video": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "cc85de7d334304112e35863409f0ea0c0bb66b80223f21583fd3c5158930db8d"
+    },
+    "faceswap": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "caefcda181d6dddc2c30841238ebabdd7583c0a2fec2e17b521454d015168f28"
+    },
+    "heygen": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "e2c5db9c36904294497fcd18ee4f003cdf0f79746d46a57f1cc352d83957018f"
+    },
+    "text-to-speech": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "2e0788af3677cb61ba03ae9d5861982fe18d59084901da92beea9a52fb95a0fb"
+    },
+    "video-download": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "07ec3543f6bfeb4a0dce4086c018fbee3ab747ac68b8ba475c87050d3212d31b"
+    },
+    "video-edit": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "c392bc176158a9d0deed541752fc0fe5bcccd910aa3568beca5741ec2b2827e0"
+    },
+    "video-translate": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "97b045355d672aec6a2831bd0fb56dbfec67101d238ec5cd3b4ccb9e505a2d09"
+    },
+    "video-understand": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "098f2e869473b0e03c75fbf85009b0f46e75a2870ab52885faaae16578a211b8"
+    },
+    "visual-style": {
+      "source": "heygen-com/skills",
+      "sourceType": "github",
+      "computedHash": "9b6545b4467ad420a311582abb4070850e24643b15e5856d907190ff5247ae7e"
+    }
+  }
+}
