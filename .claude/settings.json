@@ -2,7 +2,16 @@
   "enabledPlugins": {
     "superpowers@superpowers-local": true,
     "marketing-skills@marketingskills-local": true,
-    "last30days@last30days-local": true
+    "last30days@last30days-local": true,
+    "product-strategy@wondelai-local": true,
+    "ux-design@wondelai-local": true,
+    "marketing-cro@wondelai-local": true,
+    "sales-influence@wondelai-local": true,
+    "product-innovation@wondelai-local": true,
+    "strategy-growth@wondelai-local": true,
+    "team-motivation@wondelai-local": true,
+    "code-craftsmanship@wondelai-local": true,
+    "systems-architecture@wondelai-local": true
   },
   "extraKnownMarketplaces": {
     "superpowers-local": {
@@ -21,6 +30,12 @@
       "source": {
         "source": "directory",
         "directory": "~/.claude/plugins/cache/last30days-skill"
+      }
+    },
+    "wondelai-local": {
+      "source": {
+        "source": "directory",
+        "directory": "~/.claude/plugins/cache/wondelai-skills"
       }
     }
   }
