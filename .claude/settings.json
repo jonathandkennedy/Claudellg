@@ -12,7 +12,8 @@
     "team-motivation@wondelai-local": true,
     "code-craftsmanship@wondelai-local": true,
     "systems-architecture@wondelai-local": true,
-    "banana-claude@banana-claude-local": true
+    "banana-claude@banana-claude-local": true,
+    "agent-browser@agent-browser-local": true
   },
   "extraKnownMarketplaces": {
     "superpowers-local": {
@@ -43,6 +44,12 @@
       "source": {
         "source": "directory",
         "directory": "~/.claude/plugins/cache/banana-claude"
+      }
+    },
+    "agent-browser-local": {
+      "source": {
+        "source": "directory",
+        "directory": "~/.claude/plugins/cache/agent-browser"
       }
     }
   }
