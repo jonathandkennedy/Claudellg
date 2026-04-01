@@ -31,6 +31,11 @@
       "sourceType": "github",
       "computedHash": "caefcda181d6dddc2c30841238ebabdd7583c0a2fec2e17b521454d015168f28"
     },
+    "faf-skills": {
+      "source": "Wolfe-Jam/faf-skills",
+      "sourceType": "github",
+      "computedHash": "499010fba7d845872144c1ae044565de5e68e23bf05c47ec9c0d1e1872b199bd"
+    },
     "gws-admin-reports": {
       "source": "googleworkspace/cli",
       "sourceType": "github",
@@ -255,6 +260,51 @@
       "source": "heygen-com/skills",
       "sourceType": "github",
       "computedHash": "e2c5db9c36904294497fcd18ee4f003cdf0f79746d46a57f1cc352d83957018f"
+    },
+    "janitor-audit": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "13b8a0b6b85be74b07ab83e6dbab3cc52680476368f58e49f844312f31b9cb20"
+    },
+    "janitor-check": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "3042f2c4cad6f197b90dd6ed6a7b1ae9fdf36c1d9fd1d0dab5b4089a03690698"
+    },
+    "janitor-cleanup": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "5c0a232432308a025d585bf721a2e2caece0298e30f7994cac3c9deb5e82a043"
+    },
+    "janitor-compare": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "08f05458a7e9cd66af7d141e824fee3adac6db3aaf920e3f9c31fad7fa5e1f52"
+    },
+    "janitor-duplicates": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "5900f15fa4205a37581bea12a3b93050cdfe228192a81f830b88b1bdb5a4f806"
+    },
+    "janitor-fix": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "ca81c1c300ecb1380824a4018a9c671d0014fa38e5e5de3b4d60c9325c42855a"
+    },
+    "janitor-report": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "44f9a01a01cf258f748d8946ef18c196d3d68f444a500a8b441ec16f33271f8b"
+    },
+    "janitor-search": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "b961a1e3a4df8c46f445500dee4e2dcf232dcb48886823ec8a012c7b6c4d155d"
+    },
+    "janitor-usage": {
+      "source": "khendzel/skills-janitor",
+      "sourceType": "github",
+      "computedHash": "b1a58f8dfb59108083bf61f891402aa2ae2cd9e8519982c658928c9ac8704768"
     },
     "persona-content-creator": {
       "source": "googleworkspace/cli",

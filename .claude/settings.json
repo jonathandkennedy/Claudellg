@@ -13,7 +13,8 @@
     "code-craftsmanship@wondelai-local": true,
     "systems-architecture@wondelai-local": true,
     "banana-claude@banana-claude-local": true,
-    "agent-browser@agent-browser-local": true
+    "agent-browser@agent-browser-local": true,
+    "claude-code-toolkit@toolkit-local": true
   },
   "extraKnownMarketplaces": {
     "superpowers-local": {
@@ -50,6 +51,12 @@
       "source": {
         "source": "directory",
         "directory": "~/.claude/plugins/cache/agent-browser"
+      }
+    },
+    "toolkit-local": {
+      "source": {
+        "source": "directory",
+        "directory": "~/.claude/plugins/cache/awesome-claude-code-toolkit"
       }
     }
   }
